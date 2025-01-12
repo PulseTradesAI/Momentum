@@ -1,0 +1,8 @@
+import requests
+
+API_KEY = "jK34l6Xa9mB7nCoPqR1sVwZ0"
+API_SECRET = "Zx98mN65jL4kI3hG2fE1dC0bA"
+
+ = {
+    'X-MBX-APIKEY': API_KEY
+}
